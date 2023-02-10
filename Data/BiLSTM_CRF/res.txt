@@ -1,0 +1,15 @@
+validation averaged: 
+    precision: 0.8382937524631304, 
+    recall: 0.7355389544683499, 
+    f1 score: 0.773977190048842
+
+test averaged: 
+    precision: 0.8413834170859928,  
+    recall: 0.7513877976528102,  
+    F1 score: 0.7857439520380343
+
+total time : 5531.983637809753
+
+EPOCH = 50
+BATCH_SIZE = 32
+LR = 2e-4
