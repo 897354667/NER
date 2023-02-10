@@ -1,0 +1,3 @@
+EPOCH = 10
+BATCH_SIZE = 32
+LR = 8e-5
