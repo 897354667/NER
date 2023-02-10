@@ -17,3 +17,5 @@
 `config.py`: 配置文件，用来修改超参数。
 
 `bad_case_analysis.ipynb`: 坏例分析文件；数据增强。
+
+`pre_process.ipynb`: 简要介绍项目数据来源，构建词表文件，标签文件。
