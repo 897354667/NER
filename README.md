@@ -5,4 +5,15 @@
 
 模型运行的结果放在`Data`文件夹中
 
-模型的预处理和坏例分析(Bad-case analysis)过程用notebook记录。
+# 项目食用指南
+`main.py`: 主程序，需要在这里输入模型。
+
+`k_folds.py`: K-折交叉验证。
+
+`training.py`: 单轮训练和单论测试文件。
+
+`ner_utils.py`: 用来加载数据、构建数据集、构建DataLoader。
+
+`config.py`: 配置文件，用来修改超参数。
+
+`bad_case_analysis.ipynb`: 坏例分析文件；数据增强。
